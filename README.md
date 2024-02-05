@@ -48,4 +48,4 @@ Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 Rafael Biasi - [**LinkedIn**](https://www.linkedin.com/in/rafael-biasi-82ba0912/)
 
-Link do Projeto: [https://github.com/rafaelbiasi/GameOfLifeKt](https://www.linkedin.com/in/rafael-biasi-82ba0912/)
+Link do Projeto: https://github.com/rafaelbiasi/GameOfLifeKt
