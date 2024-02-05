@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-O `GameOfLifeKt` é uma implementação do famoso autômato celular, o Jogo da Vida de Conway, utilizando a linguagem de programação Kotlin. Este projeto visa oferecer uma versão moderna e eficiente deste jogo clássico, aproveitando os recursos e a sintaxe concisa de Kotlin.
+O `GameOfLifeKt` é uma implementação do famoso autômato celular, o Jogo da Vida de Conway, utilizando a linguagem de programação Kotlin. 
 
 ## Como Começar
 
@@ -28,7 +28,7 @@ cd GameOfLifeKt
 
 ### Uso
 
-Após a compilação, você pode executar o aplicativo para visualizar o Jogo da Vida em ação. Se o projeto incluir uma interface gráfica ou uma execução via linha de comando, especifique os comandos necessários para iniciar o aplicativo aqui.
+Após a compilação, você pode executar o aplicativo para visualizar o Jogo da Vida em ação.
 
 ### Contribuindo
 
