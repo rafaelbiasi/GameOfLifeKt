@@ -1,4 +1,4 @@
-package br.com.rafaelbiasi.doomfire
+package br.com.rafaelbiasi.gameoflife
 
 class GameLoop(
     private val startGame: () -> Unit,
