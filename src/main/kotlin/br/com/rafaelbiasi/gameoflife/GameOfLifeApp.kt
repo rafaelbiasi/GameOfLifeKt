@@ -10,7 +10,7 @@ fun main() {
     val fireWidth: Int = (widthRatio * sizeMultiplication / pixelWidth).toInt()
     val fireHeight: Int = (heightRatio * sizeMultiplication / pixelHeight).toInt()
     val render = Java2DRender(fireWidth, fireHeight, pixelWidth, pixelHeight)
-    val doomFire = GameOfLife(fireWidth, fireHeight)
+    val gameOfLife = GameOfLife(fireWidth, fireHeight)
 
-    GameLoop(doomFire::start, doomFire::newGeneration, { doomFire.renderGame(render) }, render::isRunning).start()
+    GameLoop(gameOfLife::start, gameOfLife::newGeneration, { gameOfLife.renderGame(render) }, render::isRunning).start()
 }
