@@ -23,7 +23,7 @@ cd GameOfLifeKt
 ```
 3. Compile o projeto (exemplo com Gradle):
 ```bash
-./gradlew build run
+./gradlew build run 
 ```
 
 ### Uso
